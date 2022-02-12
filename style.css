@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header {
+    padding: 20px, 35px;
+    padding: 20px 35px;
+    background-color: white;
+    text-align: center;
+    .active {
+        background-color: #04AA6D;
+    }
+}
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    display: inline;
+    text-align: center;
+}
+
+section {
+    float: center;
+        margin: 7px 0;
+        text-align: center;
+    }
+    header nav ul li {
+        display: inline;
+    }
+    header nav ul li a {
+        margin: 0 30px;
+        font-weight: lighter;
+        font-size: 22px;
+    }
+}
